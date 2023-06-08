@@ -1,2 +1,3 @@
-# adventures-go-stdlib
-Adventures in the Go Standard Library
+# Adventures in the Go Standard Library
+
+[cat - Read line by line](./cat/)
