@@ -1,3 +1,3 @@
 # Adventures in the Go Standard Library
 
-[cat - Read line by line](./cat/)
+1. [cat - Read line by line](./cat/)
